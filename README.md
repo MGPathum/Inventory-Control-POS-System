@@ -37,9 +37,11 @@ Manage your entire retail operation from a single, clean interface — products,
 
 ## 🔍 Overview
 
-The **Inventory Control System** is a desktop-based Point of Sale and Inventory Management solution designed for small to medium retail businesses. Built as part of a university **Systems Analysis & Design (SAD)** assignment, the application demonstrates a complete, production-grade software architecture using the **MVC pattern**, a **DAO/Factory layer** for database abstraction, **bcrypt** password security, and automated business reporting with **JasperReports**.
+The **Inventory Control System** is a professional-grade, desktop-based Point of Sale and Inventory Management solution engineered for small to medium retail businesses. Developed by **MG Pathum** as part of a university **Systems Analysis & Design (SAD)** assignment, this project demonstrates a complete, production-quality software architecture — covering the full retail workflow from user authentication through to business reporting.
 
-The system handles the full retail workflow: user login → product & stock management → POS billing → purchase order tracking → report generation.
+Key engineering decisions include the **MVC pattern** for clean separation of concerns, a **DAO/Factory abstraction layer** for database independence, industry-standard **BCrypt** password security, structured application logging with **Log4j 2**, and automated multi-format business reporting via **JasperReports**.
+
+**Workflow:** Secure Login → Product & Stock Management → POS Billing → Purchase Order Tracking → PDF/Excel Report Generation
 
 ---
 
@@ -270,7 +272,7 @@ mysql --version
 ### Step 1 — Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Inventory-Control-System.git
+git clone https://github.com/MGPathum/Inventory-Control-System.git
 cd Inventory-Control-System
 ```
 
@@ -398,15 +400,31 @@ LICENSE file.
 
 <div align="center">
 
-**[Your Name]**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4479A1&center=true&vCenter=true&width=500&lines=MG+Pathum;Java+Developer+%7C+Software+Engineer;Systems+Analysis+%26+Design+Specialist" alt="Typing SVG" />
 
-*Systems Analysis & Design (SAD) — University Assignment, 2025*
+<br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-@yourusername-181717?style=for-the-badge&logo=github)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+### **MG Pathum**
+
+*Bachelor's Candidate — Systems Analysis & Design (SAD)*
+*Professional-Grade Java POS System — University Assignment, 2025*
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-MGPathum-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MGPathum)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MG%20Pathum-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mg-pathum-0ba377374/)
+[![Facebook](https://img.shields.io/badge/Facebook-mgpdesman-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mgpdesman/)
+
+<br/>
 
 ---
 
-*If you found this project useful, consider giving it a ⭐ on GitHub!*
+<sub>
+  Built with ❤️ and Java · Designed for portfolio presentation · Open for collaboration
+</sub>
+
+<br/>
+
+*If this project was helpful or impressive, drop a ⭐ on the repository — it means a lot!*
 
 </div>

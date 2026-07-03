@@ -1,2 +1,0 @@
-# Place .jrxml / .jasper report templates in this folder.
-# ReportUtil loads them from the classpath as /reports/<name>.jasper

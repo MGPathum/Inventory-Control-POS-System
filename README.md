@@ -411,9 +411,9 @@ LICENSE file.
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-MGPathum-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MGPathum)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MG%20Pathum-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mg-pathum-0ba377374/)
-[![Facebook](https://img.shields.io/badge/Facebook-mgpdesman-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mgpdesman/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MGPathum)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mg-pathum-0ba377374/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mgpdesaman/)
 
 <br/>
 
